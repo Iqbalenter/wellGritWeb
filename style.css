@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poopins', sans-serif;
+}
+
+.navbar-brand img {
+    width: 55%;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+#navbarNav {
+    margin: 0 0 0 250px;
+    font-size: 1.3em;
+}
+
+.nav-btn {
+    margin: 0 80px 0 0;
+}
+
+#btn-login {
+    width: 100px;
+    margin-right: 20px;
+}
